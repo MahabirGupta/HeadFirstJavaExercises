@@ -5,7 +5,7 @@ public class Main {
         while (x > 1) {
             x = x - 1;
             if (x < 3) {
-                System.out.println("small x = " + x);
+                System.out.println("small x= " + x);
             }
         }
     }
